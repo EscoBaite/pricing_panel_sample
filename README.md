@@ -1,0 +1,1 @@
+This is a simple example of a mobile friendly, responsive pricing panel.
